@@ -1,5 +1,5 @@
 <h1 align="center">Nice to meet you 👋, I'm B0zzZ</h1>
-<23 align="center">I'm a Computer engineering estudent, from Brazil</h2>
+<h2 align="center">I'm a Computer engineering estudent, from Brazil</h2>
 
 <p align="center">
 </p>
