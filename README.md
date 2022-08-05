@@ -1,9 +1,6 @@
 <h1 align="center">Nice to meet you 👋, I'm B0zzZ</h1>
-<h3 align="center">I'm a Computer engineering estudent, from Brazil</h3>
+<23 align="center">I'm a Computer engineering estudent, from Brazil</h2>
 
--                                             🌱 I’m currently learning **C#,javascript,HTML and CSS**
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
 
