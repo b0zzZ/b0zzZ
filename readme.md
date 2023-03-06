@@ -1,4 +1,4 @@
-<h1 align="center">Nice to meet you 👋, I'm B0zzZ</h1>
+<h1 align="center">Ezequiel Souza (B0zzZ) - Back End Developer</h1>
 <h2 align="center">I'm a Computer engineering estudent, from Brazil</h2>
 
 <p align="center">
